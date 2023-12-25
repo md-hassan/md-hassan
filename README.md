@@ -1,4 +1,4 @@
-Hi, I am a fourth-year undergrad at the Indian Institute of Technology Gandhinagar, pursuing Dual Majors in Computer Science and Electrical Engineering.
+Hi, I am a final-year undergrad at the Indian Institute of Technology Gandhinagar, pursuing Dual Majors in Computer Science and Electrical Engineering.
 
 I'm interested in Deep Learning & Computer Vision.
 
