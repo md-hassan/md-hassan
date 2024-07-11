@@ -1,6 +1,6 @@
-Hi, I am a final-year undergrad at the Indian Institute of Technology Gandhinagar, pursuing Dual Majors in Computer Science and Electrical Engineering.
+Hi, I am an incoming grad student at UMass Amherst, pursuing MS in Computer Science.
 
-I'm interested in Deep Learning & Computer Vision.
+I'm interested in Deep Learning, Computer Vision and Multimodal Learning.
 
 Find me on LinkedIn at: <a href="https://www.linkedin.com/in/md-yusuf-hassan/">md-yusuf-hassan</a>
 
